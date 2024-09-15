@@ -1,0 +1,7 @@
+{
+  "name": "maxwell-heroes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
